@@ -1,0 +1,16 @@
+{
+    "rubricas": [
+        {
+            "id": 1, 
+            "rubrica": "Primeira rubrica" 
+        },
+        {
+            "id": 2, 
+            "rubrica": "Segunda rubrica" 
+        },
+        {
+            "id": 3, 
+            "rubrica": "Terceira rubrica"
+        }
+    ]
+}
